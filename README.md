@@ -1,95 +1,150 @@
 <!-- 🌸 Girly & Aesthetic GitHub Profile README 🌸 -->
+<div align="center">
 
-<h1 align="center">✨ Hey , I'm <span style="color:#ff99cc;">Rokheya Hane</span> 💕</h1>
+# ✨ Hey, I'm <span style="color:#ff99cc;">**Rokheya Hane**</span> 💕
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFB6C1&width=435&lines=Frontend+Developer+💻;Creative+Designer+🎨;Coffee+%26+Code+Addict+☕;Building+beautiful+projects+🌷" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FF99CC&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%จ;Coffee+%26+Code+Addict+%E2%98%95;Building+Beautiful+Web+Experiences+%F0%9F%8C%B7)](https://github.com/roxy1102)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/10/2a/f3/102af31e2ed7d5a3f52c3fda5a4f73cf.gif" width="250" alt="cute coding gif">
-</p>
+<img src="https://i.pinimg.com/originals/10/2a/f3/102af31e2ed7d5a3f52c3fda5a4f73cf.gif" width="280" alt="cute coding gif" style="border-radius: 15px;">
 
----
-
-### 💫 About Me
-🌸 Based in Senegal 
-💻 Passionate about **frontend & mobile development**  
-🎀 I love mixing **aesthetic design with clean code**  
-🧁 Currently exploring **React Native & creative UI/UX design**  
-💬 Always open to collaborations and cute ideas 💌  
+</div>
 
 ---
 
-### 🌷 Tech Stack
+## 💫 About Me
 
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-ffcce7?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffb6c1?style=for-the-badge&logo=tailwindcss&logoColor=white)
+🌸 **Based in:** Senegal 🇸🇳  
+💻 **Passionate about:** Frontend & Mobile Development  
+🎀 **Specializing in:** Aesthetic Design + Clean Code  
+🧁 **Currently exploring:** React Native & Advanced UI/UX  
+💬 **Always:** Open to collaborations & creative projects  
 
-#### ☁️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-ffb6c1?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ffd6e7?style=for-the-badge&logo=mysql&logoColor=black)
-
-#### 🪄 Tools & Design
-![Git](https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-ff99cc?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-ffd6e7?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-ffb6c1?style=for-the-badge&logo=canva&logoColor=white)
+*I believe code should be beautiful, functional, and accessible—just like good design.* 💌
 
 ---
 
-### 💖 GitHub Stats
+## 🌷 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roxy1102&show_icons=true&theme=rose_pine" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxy1102&layout=compact&theme=rose_pine" height="180em"/>
-</p>
+### 🎨 Frontend Development
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roxy1102&theme=rose_pine" alt="GitHub Streak" />
-</p>
+### ☁️ Backend & Databases
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
 
----
-
-### 🌸 What I'm Currently Learning
-- React Native 💕  
-- Advanced JavaScript 🌷
-- Advanced Reactjs
-- UI/UX Design ✨  
-
----
-
-### 💌 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rokheya-hane-a20253235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff99cc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
-
----
-
-### ☕ Fun & Sweet Facts
-- 🍰 I’m addicted to books,coffee & cute interfaces.  
-- 💫 I love pastel aesthetics.  
-- 🎶 Coding playlist = chill + lo-fi.  
-- 🐾 Always curious & creative.  
+### 🪄 Tools & Design
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</div>
 
 ---
 
-### ✨ Daily Inspiration
-> “Stay soft, even when the world tries to make you hard.” 💗
+## 💖 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roxy1102&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxy1102&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roxy1102&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="cute cat coding" />
-</p>
+## 🌸 Learning Journey
+
+Currently mastering:
+- ⚛️ **React Native** - Building cross-platform mobile apps
+- 📚 **Advanced JavaScript** - Deepening core concepts
+- 🎯 **Advanced React.js** - Hooks, Context API, Performance Optimization
+- 🎨 **UI/UX Design** - User-centered design principles
+- 🔐 **Web Security** - Best practices & implementation
 
 ---
 
-⭐️ From Rokheya Hane (https://github.com/roxy1102)
+## 🚀 Featured Projects
+
+*More projects coming soon! Check out my repositories below:*
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/View%20All%20Projects-ff99cc?style=for-the-badge&logo=github)](https://github.com/roxy1102?tab=repositories)
+
+</div>
+
+---
+
+## 💌 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rokheya-hane-a20253235/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff99cc?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+## ☕ Random Facts About Me
+
+- 📚 Bookworm + Coffee Enthusiast = Infinite Inspiration
+- 💫 Aesthetic lover (Pastel colors = my weakness)
+- 🎶 Coding soundtrack: Lo-fi beats & chill vibes 🎧
+- 🐾 Creative problem-solver with a curious mind
+- 💗 Advocate for beautiful, accessible code
+- 🌙 Night owl developer 🦉
+
+---
+
+## 📊 What Drives Me
+
+<table align="center">
+  <tr>
+    <td align="center">🎯</td>
+    <td><strong>Mission:</strong> Create intuitive, beautiful digital experiences</td>
+  </tr>
+  <tr>
+    <td align="center">💡</td>
+    <td><strong>Vision:</strong> Code that's both powerful and accessible</td>
+  </tr>
+  <tr>
+    <td align="center">🌍</td>
+    <td><strong>Goal:</strong> Contribute to open-source & help others learn</td>
+  </tr>
+</table>
+
+---
+
+## ✨ Favorite Quote
+
+> "Stay soft, even when the world tries to make you hard." 💗  
+> *— A reminder to bring creativity and compassion to everything I do*
+
+---
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="cute cat coding" style="border-radius: 15px;">
+
+### Made with 💕 by [Rokheya Hane](https://github.com/roxy1102)
+
+![Profile Views](https://komarev.com/ghpvc/?username=roxy1102&color=ff99cc&style=flat-square)
+
+</div>
