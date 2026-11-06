@@ -3,7 +3,7 @@
 
 # ✨ Hey, I'm <span style="color:#ff99cc;">**Rokheya Hane**</span> 💕
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FF99CC&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%จ;Coffee+%26+Code+Addict+%E2%98%95;Building+Beautiful+Web+Experiences+%F0%9F%8C%B7)](https://github.com/roxy1102)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FF99CC&center=true&width=500&lines=Fullstack+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%จ;Coffee+%26+Code+Addict+%E2%98%95;Building+Beautiful+Web+Experiences+%F0%9F%8C%B7)](https://github.com/roxy1102)
 
 <img src="https://i.pinimg.com/originals/10/2a/f3/102af31e2ed7d5a3f52c3fda5a4f73cf.gif" width="280" alt="cute coding gif" style="border-radius: 15px;">
 
